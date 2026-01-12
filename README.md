@@ -9,19 +9,19 @@ The goal is to simulate a real-world business analytics scenario where data-driv
 
 The analysis aims to answer the following key business questions:
 
-How do sales perform over time?
+- How do sales perform over time?
 
-Which countries generate the highest revenue?
+- Which countries generate the highest revenue?
 
-Which products contribute most to total sales?
+- Which products contribute most to total sales?
 
-How does sales quantity vary across regions and periods?
+- How does sales quantity vary across regions and periods?
 
 # 🧰 Tools Used
 
-Power BI – Data modeling, analysis, and dashboard creation
+- Power BI – Data modeling, analysis, and dashboard creation
 
-Excel / CSV Dataset – Source data (Online Retail dataset)
+- Excel / CSV Dataset – Source data (Online Retail dataset)
 
 # 📁 Dataset Description
 
@@ -59,41 +59,30 @@ The dataset contains transactional data from an online retail business, includin
 
 The Power BI dashboard includes:
 
-KPI cards for quick performance overview
+- KPI cards for quick performance overview
 
-Quarterly sales trend analysis
+- Quarterly sales trend analysis
 
-Country-wise sales performance (map & table)
+- Country-wise sales performance (map & table)
 
-Top-selling products by total sales
+- Top-selling products by total sales
 
-Interactive slicers (Year, Quarter, Country, Time of Day, Product)
+- Interactive slicers (Year, Quarter, Country, Time of Day, Product)
 
 # 🧠 Key Business Insights
 
-Sales show clear variation across quarters, indicating seasonal trends.
+- Sales show clear variation across quarters, indicating seasonal trends.
 
-A small number of products contribute a significant portion of total revenue.
+- A small number of products contribute a significant portion of total revenue.
 
-Certain countries dominate overall sales, highlighting key regional markets.
+- Certain countries dominate overall sales, highlighting key regional markets.
 
-Product-level analysis helps identify high-performing and low-performing items.
-
-# 🚀 Recommendations
-
-Focus marketing and inventory planning on top-selling products.
-
-Strengthen presence in high-revenue countries to maximize returns.
-
-Use seasonal trends to plan promotions and stock levels.
-
-Monitor low-performing products for pricing or inventory optimization.
+- Product-level analysis helps identify high-performing and low-performing items.
 
 
-# ✅ Conclusion
+# 📷 Screenshot
+<img width="1920" height="1008" alt="Screenshot 2026-01-12 183956" src="https://github.com/user-attachments/assets/07a2f629-0b20-4afa-8ead-f72f179577ab" />
 
-This project demonstrates the use of data analytics for business decision-making by transforming raw sales data into meaningful insights.
-It reflects real-world analyst responsibilities such as KPI tracking, trend analysis, and business storytelling using data visualization.
 
 # Author
 Sudhakar M
